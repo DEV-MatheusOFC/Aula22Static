@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\bin\Debug\netcoreapp3.1\Aula 22 - Static.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\bin\Debug\netcoreapp3.1\Aula 22 - Static.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\bin\Debug\netcoreapp3.1\Aula 22 - Static.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\bin\Debug\netcoreapp3.1\Aula 22 - Static.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\bin\Debug\netcoreapp3.1\Aula 22 - Static.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\bin\Debug\netcoreapp3.1\Aula 22 - Static.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\obj\Debug\netcoreapp3.1\Aula 22 - Static.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\obj\Debug\netcoreapp3.1\Aula 22 - Static.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\obj\Debug\netcoreapp3.1\Aula 22 - Static.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\obj\Debug\netcoreapp3.1\Aula 22 - Static.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\obj\Debug\netcoreapp3.1\Aula 22 - Static.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\obj\Debug\netcoreapp3.1\Aula 22 - Static.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 22 - Static\obj\Debug\netcoreapp3.1\Aula 22 - Static.genruntimeconfig.cache
